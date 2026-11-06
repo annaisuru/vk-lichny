@@ -1,0 +1,10 @@
+{
+  "name": "VK Личный",
+  "short_name": "VK Личный",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f3f5f7",
+  "theme_color": "#2878c7",
+  "lang": "ru",
+  "description": "Личный клиент VK — интерактивный макет версии 0.2"
+}
